@@ -9,7 +9,7 @@
 After [grunt-init][] is installed, place this template in your `~/.grunt-init/` directory.  This can be done by cloning this repo into the folder
 
 ```
-git clone git@github.com:spumko/grunt-init-spumko-repo.git ~/.grunt-init/spmuko-repo
+git clone git@github.com:spumko/grunt-init-spumko-repo.git ~/.grunt-init/spumko-repo
 ```
 
 ## Usage
